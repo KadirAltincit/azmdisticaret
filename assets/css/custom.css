@@ -11,6 +11,11 @@
     height: auto !important;
 }
 
+.footer__business--df{
+    display: flex;
+    justify-content: center;
+}
+
 @media (max-width: 769px) {
     .mobile__df{
         height: 100% !important;
