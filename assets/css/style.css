@@ -386,10 +386,11 @@ table p {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top right;
-  padding: 140px 0 146px;
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  background-position: center;
+  /* padding: 140px 0 146px; */
+  height: 390px;
 }
 @media only screen and (max-width: 1199px) {
   .page-header-area {
