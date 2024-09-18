@@ -10,3 +10,16 @@
 .slider__hd{
     height: auto !important;
 }
+
+@media (max-width: 769px) {
+    .mobile__df{
+        height: 100% !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .menu__flag--mobile{
+        margin-bottom: 0;
+    }
+}
