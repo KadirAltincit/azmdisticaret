@@ -3039,7 +3039,7 @@ table p {
   z-index: -1;
 }
 .testimonial-item .testi-inner-content .testi-info .name {
-  color: #eb3e32;
+  color: #bca869;
   display: inline-block;
   font-size: 18px;
   font-weight: 500;
@@ -3052,7 +3052,7 @@ table p {
   }
 }
 .testimonial-item .testi-inner-content .testi-info .name:before {
-  background-color: #eb3e32;
+  background-color: #bca869;
   content: "";
   height: 3px;
   width: 32px;
@@ -8473,7 +8473,7 @@ table p {
   margin-left: 20px;
 }
 .blog-details-item .blog-meta-post ul > li > i {
-  color: #eb3e32;
+  color: #bca869;
   font-size: 18px;
   margin-right: 10px;
   position: relative;
@@ -9486,7 +9486,7 @@ table p {
   }
 }
 .footer-area .widget-contact-wrap ul > li {
-  color: #cacaca;
+  color: #bca869;
   font-size: 16px;
   line-height: 2.0625;
   font-weight: 300;
@@ -9576,7 +9576,7 @@ table p {
   }
 }
 .footer-main a {
-  color: #cacaca;
+  color: #bca869;
 }
 .footer-main a:hover {
   color: #eb3e32;
@@ -9636,8 +9636,8 @@ table p {
 }
 .footer-main .social-icons a {
   display: inline-block;
-  background-color: #5d5d5d;
-  color: #fff;
+  background-color: #bca869;
+  color: #3e3c3d;
   width: 36px;
   height: 36px;
   text-align: center;
@@ -9700,7 +9700,7 @@ table p {
   }
 }
 .footer-bottom .copyright {
-  color: #cacaca;
+  color: #bca869;
   font-size: 15px;
   line-height: 1.75;
   position: relative;
