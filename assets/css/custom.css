@@ -1,43 +1,93 @@
-.topbar__df{
-    width: 100%;
+.topbar__df {
+  width: 100%;
 }
 
-.topbar__flag--df{
-    display: flex;
-    justify-content: space-between;
+.topbar__flag--df {
+  display: flex;
+  justify-content: space-between;
 }
 
-.slider__hd{
-    height: auto !important;
+.slider__hd {
+  height: auto !important;
 }
 
-.footer__business--df{
-    display: flex;
-    justify-content: center;
+.footer__business--df {
+  display: flex;
+  justify-content: center;
 }
 
 .pages__title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 170px;
-    background-color: #3e3c3d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 170px;
+  background-color: #3e3c3d;
 }
 
-.pages__title--size{
-    font-size: 2.9rem;
-    color: #bca869;
+.pages__title--size {
+  font-size: 2.9rem;
+  color: #bca869;
+}
+
+.slider__btn--border {
+  border-color: #bca869 !important;
+  color: #bca869 !important;
+}
+
+.btn-theme {
+  border: 2px solid #3e3c3d;
+}
+
+.btn-theme:hover {
+  border: 2px solid #3e3c3d;
+}
+
+.product-slider-wrap .product-swiper-btn-wrap .product-swiper-btn-prev:hover,
+.product-slider-wrap .product-swiper-btn-wrap .product-swiper-btn-next:hover {
+  background-color: #3e3c3d;
+  border-color: #3e3c3d;
+}
+
+.product-slider-wrap .product-swiper-btn-wrap .product-swiper-btn-prev,
+.product-slider-wrap .product-swiper-btn-wrap .product-swiper-btn-next {
+  border: 1px solid #3e3c3d;
+}
+
+.post-item .inner-content .content .post-btn {
+  border: 2px solid #3e3c3d;
+}
+
+.post-item .inner-content .content .post-btn:hover {
+  border: 2px solid #3e3c3d;
+  background-color: #3e3c3d;
+}
+
+.post-item .inner-content .content .title a:hover {
+  color: #2b2b2b;
+}
+
+.footer-main a:hover {
+  color: #fff;
 }
 
 @media (max-width: 769px) {
-    .mobile__df{
-        height: 100% !important;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    }
 
-    .menu__flag--mobile{
-        margin-bottom: 0;
-    }
+  .header-top {
+    display: none;
+  }
+
+  .off-canvas-wrapper .btn-menu-close {
+    background-color: #bca869;
+}
+
+  .mobile__df {
+    height: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .menu__flag--mobile {
+    margin-bottom: 0;
+  }
 }
