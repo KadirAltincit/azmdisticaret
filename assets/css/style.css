@@ -1305,7 +1305,7 @@ table p {
   z-index: 2;
 }
 .header-area .header-align {
-  background-color: #eb3e32;
+  background-color: #bca869;
   border-radius: 10px 10px 0 0;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -1775,7 +1775,7 @@ table p {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #eb3e32;
+  background-color: #474747;
   border-radius: 0 8px 8px 0;
   border: none;
   color: #fff;
