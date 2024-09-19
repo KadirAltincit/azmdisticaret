@@ -274,9 +274,9 @@ table p {
 
 /*-------- Button Style Css --------*/
 .btn-theme {
-  background-color: #eb3e32;
-  border: 2px solid #eb3e32;
-  color: #fff;
+  background-color: #3e3c3d;
+  border: 2px solid #bca869;
+  color: #bca869;
   display: inline-block;
   font-weight: 600;
   font-size: 18px;
@@ -302,9 +302,9 @@ table p {
   }
 }
 .btn-theme:hover {
-  background-color: #fff;
-  border-color: #eb3e32;
-  color: #eb3e32;
+  background-color: #3e3c3d;
+  border: 2px solid #bca869;
+  color: #bca869;
 }
 .btn-theme.btn-sm {
   font-weight: 500;
