@@ -2144,8 +2144,8 @@ table p {
   position: relative;
 }
 .aside-search-box-wrapper .search-form .form-control {
-  border: 1px solid #eb3e32;
-  color: #eb3e32;
+  border: 1px solid #bca869;
+  color: #bca869;
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 0;
@@ -2173,7 +2173,7 @@ table p {
 }
 .aside-search-box-wrapper .search-form .search-button {
   border: none;
-  background-color: #eb3e32;
+  background-color: #bca869;
   position: absolute;
   top: 0;
   right: 0;
