@@ -275,8 +275,8 @@ table p {
 /*-------- Button Style Css --------*/
 .btn-theme {
   background-color: #3e3c3d;
-  border: 2px solid #bca869;
-  color: #bca869;
+  border: 2px solid #4d799e;
+  color: #4d799e;
   display: inline-block;
   font-weight: 600;
   font-size: 18px;
@@ -303,8 +303,8 @@ table p {
 }
 .btn-theme:hover {
   background-color: #3e3c3d;
-  border: 2px solid #bca869;
-  color: #bca869;
+  border: 2px solid #4d799e;
+  color: #4d799e;
 }
 .btn-theme.btn-sm {
   font-weight: 500;
@@ -1181,7 +1181,7 @@ table p {
 -----------------------------------------------------------------------
 */
 .header-top {
-  background-color: #3e3c3d;
+  background-color: #303030;
   padding: 8px 0 9px;
 }
 .header-top .desc {
@@ -1305,7 +1305,7 @@ table p {
   z-index: 2;
 }
 .header-area .header-align {
-  background-color: #bca869;
+  background-color: #4d799e;
   border-radius: 10px 10px 0 0;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -1695,7 +1695,7 @@ table p {
   display: none;
 }
 .header-info-items .info-items > ul > li > i {
-  color: #bca869;
+  color: #4d799e;
   font-size: 16px;
   margin-right: 14px;
   position: relative;
@@ -1708,7 +1708,7 @@ table p {
   }
 }
 .header-info-items .info-items > ul > li > a {
-  color: #bca869;
+  color: #4d799e;
   font-size: 14px;
   line-height: 1;
 }
@@ -2810,7 +2810,7 @@ table p {
   }
 }
 .about-content .title {
-  color: #444141;
+  color: #4d799e;
   font-size: 60px;
   font-weight: 700;
   letter-spacing: 0.14px;
@@ -3039,7 +3039,7 @@ table p {
   z-index: -1;
 }
 .testimonial-item .testi-inner-content .testi-info .name {
-  color: #bca869;
+  color: #4d799e;
   display: inline-block;
   font-size: 18px;
   font-weight: 500;
@@ -3052,7 +3052,7 @@ table p {
   }
 }
 .testimonial-item .testi-inner-content .testi-info .name:before {
-  background-color: #bca869;
+  background-color: #4d799e;
   content: "";
   height: 3px;
   width: 32px;
@@ -8356,7 +8356,7 @@ table p {
   margin-left: 20px;
 }
 .post-item .inner-content .content .meta-post ul > li > i {
-  color: #bca869;
+  color: #4d799e;
   font-size: 18px;
   margin-right: 10px;
   position: relative;
@@ -8400,8 +8400,8 @@ table p {
 }
 .post-item .inner-content .content .post-btn {
   background-color: #3e3c3d;
-  border: 2px solid #bca869;
-  color: #bca869;
+  border: 2px solid #4d799e;
+  color: #4d799e;
   display: inline-block;
   font-size: 16px;
   font-weight: 600;
@@ -9486,7 +9486,7 @@ table p {
   }
 }
 .footer-area .widget-contact-wrap ul > li {
-  color: #bca869;
+  color: #4d799e;
   font-size: 15px;
   line-height: 2.0625;
   font-weight: 300;
@@ -9576,7 +9576,7 @@ table p {
   }
 }
 .footer-main a {
-  color: #bca869;
+  color: #4d799e;
 }
 .footer-main a:hover {
   color: #eb3e32;
@@ -9700,7 +9700,7 @@ table p {
   }
 }
 .footer-bottom .copyright {
-  color: #bca869;
+  color: #4d799e;
   font-size: 15px;
   line-height: 1.75;
   position: relative;
