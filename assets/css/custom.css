@@ -125,6 +125,26 @@
   color: #ffffff;
 }
 
+/**-----------------kurumsal-sayfa-----------------**/
+
+.intitutional__card--gr {
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  gap: 50px;
+}
+
+.intitutional__card--border {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.border__img--radius {
+  border-radius: 20px 20px 0px 0px;
+}
+
 @media (max-width: 991px) {
   .header-middle-align-end {
     display: block !important;
