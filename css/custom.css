@@ -1,0 +1,46 @@
+.topbar__bg--color {
+    background-color: #af95be !important;
+}
+
+.topbar__flag{
+    display: flex;
+    justify-content: end;
+}
+
+header .navbar-brand img {
+    max-height: 50px !important;
+}
+
+header .navbar-brand {
+    margin-right: 0;
+    vertical-align: middle;
+    padding: 15px 0;
+    display: inline-block;
+    font-size: 0;
+}
+
+.slider__mt{
+    margin-top: 126px !important;
+}
+
+footer .footer-logo img {
+    max-height: 70%;
+}
+
+.footer__icons--gap {
+    display: flex;
+    gap: 10px;
+}
+
+.pages__img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0;
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1420px;
+    }
+}
